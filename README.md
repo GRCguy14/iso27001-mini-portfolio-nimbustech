@@ -8,7 +8,7 @@ This repo showcases a compact, audit-style ISO/IEC 27001:2022 documentation set 
 - [Risk Register](https://github.com/GRCguy14/iso27001-mini-portfolio-nimbustech/blob/main/Risk%20Register-%20NimbusTech%20Inc.%20-%20Sheet1.pdf)
 - [Statement of Applicability (SoA)](https://github.com/GRCguy14/iso27001-mini-portfolio-nimbustech/blob/main/SoA-%20NimbusTech%20Inc..pdf)
 - [Incident Response Plan](https://github.com/GRCguy14/iso27001-mini-portfolio-nimbustech/blob/main/Incident%20Response%20Plan-%20NimbusTech%20Inc..pdf)
-- [Gap Assessment]([Gap-Assessment.pdf](https://github.com/GRCguy14/iso27001-mini-portfolio-nimbustech/blob/main/Gap%20Assessment%20-%20NimbusTech%20Inc..pdf)
+- [Gap Assessment](https://github.com/GRCguy14/iso27001-mini-portfolio-nimbustech/blob/main/Gap%20Assessment%20-%20NimbusTech%20Inc..pdf)
 
 ## What this demonstrates
 - Governance & leadership commitment (Clause 5)
